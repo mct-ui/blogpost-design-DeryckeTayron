@@ -22,6 +22,8 @@ html {
   font-family: "droid-serif", Georgia, serif;
   color: #5c6366;
   padding: 48px 24px 24px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 body {
@@ -61,7 +63,7 @@ img {
 h1,
 h2,
 h3 {
-    font-family: "Inter Web", "Helvetica Neue", Helvetica, arial, sans-serif
+  font-family: "Inter Web", "Helvetica Neue", Helvetica, arial, sans-serif;
 }
 
 h1,
